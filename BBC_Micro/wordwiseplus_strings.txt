@@ -1,0 +1,115 @@
+WORDWISE-PLUS
+ 1.4C
+(C) 1984 CC
+h(`L
+ep 2
+HJJJJ 
+F`L&
+`H 9
+ph` m
+s` q
+Bad params
+MARKERS !
+`8` 
+r` %
+Memory full !
+No such file !
+File too long!
+REPEAT
+DOTHIS
+UNTIL
+TIMES
+CURSOR
+DELETE
+PRINT
+PROC
+ENDPROC
+FIND
+FKEY
+GOTO
+TYPE
+DISPLAY
+TIME
+REPLACE
+SELECT
+SWAP
+CALL
+OSCLI
+PTR#
+BPUT#
+CLOSE
+PREVIEW
+LOAD
+SAVE
+DEFAULTS
+RECOUNT
+SPOOL
+DOLINE
+RIGHT
+LEFT
+DOWN
+BOTTOM
+MARKED
+WORD
+SEGMENT
+TEXT
+PAGE
+PARAMS
+MARKERS
+FILE
+Bad Command
+qH j
+Syntax error
+ih` 
+GH K
+$ too long
+r`L=
+No $ room
+Mistake
+Bad operator
+phH)p
+hh` 
+Type mismatch
+D0%` m
+Error
+Maths error
+/ by Zero
+r&s&t&u
+Missing "
+Missing )
+q`Ly
+r`h8`%@&
+FALSE
+VARFREE
+TIME
+GCT$
+CHR$
+STR$
+GLT$
+FREE
+TRUE
+WORDS
+BGET#
+EOF#
+EXT#
+OPENIN
+OPENOUT
+PTR#
+GCF$#
+GLF$
+GCK$
+GLK$
+Bad channel
+**H 
+@H )
+q`Ly
+Bad Argument
+i0H$
+Can't execute
+0D t
+Escape
+No such label
+Too many 
+No REPEAT
+No PROC
+NO ROOM !

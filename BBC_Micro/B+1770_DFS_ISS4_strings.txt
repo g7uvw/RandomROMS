@@ -1,0 +1,144 @@
+wDFS
+2.22
+(C)1985 Acorn
+Disc 
+Bad 
+i0` 
+name
+`JJJJJJ)
+`JJJJJ`
+Not found
+`H)_
+8h`,
+JJH)
+JJH)
+`8` L
+`(` E
+) FM
+Drive 
+Option 
+Dir. :
+Lib. :
+LOADRUN
+EXEC
+`ACCESS
+2BACKUP
+CLOSE
+COMPACT
+COPY
+Q$DELETE
+DESTROY
+DRIVE
+ENABLE
+FORM
+FREE
+INFO
+RENAME
+TITLE
+VERIFY
+WIPE
+rBUILD
+DISC
+DUMP
+LIST
+ROMS
+TYPE
+DISK
+UTILS
+Deleted
+command
+attribute
+option
+full
+Cat full
+drive
+Exists
+h` .
+JJJJ)
+`)*-.
+#) 0
+Escape
+Execute only
+read only
+fault 
+ at :
+changed
+Too many open
+Open
+(P.0
+h8`h
+Channel
+Read only
+Can't extend
+`L.!BOOT
+E.!BOOT
+Acorn 1770 DFS
+0T L
+(` {
+jjj]
+Locked
+DFS 2.22
+Syntax: 
+fsp>
+afsp>
+source> <dest.>
+old fsp> <new fsp>
+<dir>)
+<drive>)
+title>
+drive> (40)(80)
+0/80
+<drive>)...
+<rom>)
+Compacting :
+ free sectors
+Copying from :
+ to :
+Insert 
+source
+destination
+ disc and hit a key
+h` w
+Go (Y/N) ? 
+(`L%
+Verify
+Format
+ which drive ? 
+Verifying
+Formatting
+ drive 
+ track   
+?   
+Address :  Length
+Free
+Used
+     :  
+ Files 
+ Sectors 
+ Bytes 
+Rom 
+TUBE HOST 2.20
+SRAM 1.02
+  SRDATA  <id.>
+  SRLOAD  <filename> <sram address> (<id.>) (Q)
+  SRREAD  <dest. start> <dest. end> <sram start> (<id.>)
+  SRROM   <id.>
+  SRSAVE  <filename> <sram start> <sram end> (<id.>) (Q)
+  SRWRITE <source start> <source end> <sram start> (<id.>)
+End addresses may be replaced by +<length>
+SRAM 1.02
+  SRAM
+`HHHH
+Illegal parameterIllegal addressNo filing systemBad commandFile not foundRAM occupied
+ 0;IU
+`8` 
+8`0AW:G[07Gsram
+SRlOAD
+SRsAVE
+SRwRITE
+SRReAD
+SRdATA
+SRRoM
+hH0/
+@H,i
+Acorn OS 

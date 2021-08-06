@@ -1,0 +1,428 @@
+uU2uD
+uQ\uRY
+EEPROM Formatted
+Ver 4.0 18-11-93
+G _ r
+ | 
+   !
+   !
+Line 105
+Line 106
+Line 107
+Line 108
+Line 109
+Line 140
+Line 141
+Line 142
+STATUS MENU
+5 6 7 8 9 0 1 2 
+C on   
+C off  
+I on 
+I off
+Low Rate     
+h Rate    
+Undef Rate   
+S: State No  
+Loop Active  
+NTU Read
+    
+NTU Not Read
+Send Data    
+Receive Data 
+Data Transfer
+No Si
+nal    
+No Ali
+nment 
+Receivin
+ AIS
+No Alarm     
+"RATE MENU
+2.4K         
+4.8K         
+9.6K         
+16K          
+19.2K        
+32K          
+48K-1010     
+48K-X50-2    
+48K-X50-3    
+56K          
+64K          
+64K+B
+te Tim 
+Rate not valid  
+ Y*0
+TEST MENU
+Local Loop      
+Loopback        
+Self Test       
+Remote Loop     
+Send Bin 1      
+Send Bin 0      
+Lamp Test       
+Invalid Test    
+----------------
+0J 7
+OPTION MENU
+BT enable
+X21 Bis
+105 Set On
+106 Dela
+107 = 108/1 
+108/1 Set On
+Resettin
+ NTU   No X21 Options  
+" ns 
+"x(y
+rammin
+     
+."EPROM Test      
+Self Test Pass  
+Self Test Fail  
+EPROM Fail      
+EEPROM  Fail    
+No EEPROM Found 
+EEPROM Full     
+EEPROM Csum Fail
+Testin
+         
+                
+_"ABCZYX
+EEPROM Test     
+Formating EEPROM
+Blocks Used  
+Full EEPROM     
+Data Not Stored 
+rammin
+     
+ V 0-
+ V%0
+ V10
+ -$u
+ V&0
+ V$0
+M0'q0
+ 61 
+0|  
+Z ZM0'J Y) 
+ {#0
+( ]  l
+l ]$ l! \
+iuL2
+ _h0=
+&0x0 
+z/{t|
+z1{P|.0^
+2 _E0x9y
+z0{0|
+{p|(
+|00^
+2 _Ey
+f0+, 
+{p|(
+|/0^
+2 _a x3y
+z3{&|
+|-0^
+2 _h xC0=
+!9z4{
+!9z!{B|&~
+{p|(
+!9z7{&|+
+2 _^y
+f0+, 
+|,0^
+2 _"0=
+"rz1{P|.
+z#{)|
+z/{t|
+z${Y|
+2 _Ty
+# z!{
+# z#{
+# z){b|#}
+# z0{0|
+# z0{
+^0+d
+N xX
+$Pz3{
+$Pz*{D|
+$Pz"{
+$Pz${Y|
+$Pz3{&|
+f xF0
+z7{&|+
+R0+X
+z+{`|
+z${Y|
+`0xf
+&7z1{P|.
++z&{
+&7z+{
+&7z!{
+&7z'{
+2 _60
+z'{"|!
+2 _*y
+z#{)|
+z&{@|$
+2 _X x:0
+z&{@|$
+ xEy
+(Nz7{&|+
+(Nz%{
+(Nz({W|
+(Nz.{6|
+(Nz${Y|
+l0+P
+z'{"|!
+S0*]
+)Yz1{P|.
+)Yz%{
++z){
+)Yz!{
+2 _*y
+z&{@|$
+2 _6y
+*;z({
+*;z&{
+*;z#{)|
+*;z){b|#
+*;z2{
+M0*S0
+z'{"|!
+B0*e
++Wz7{&|+
++Wz'{
++Wz+{`|
++Wz${Y|
++Wz${Y|
+A0*P0+V
+z({W|
+z*{D|
+M0xWy
+z1{P|.
+z.{6|
+z/{t|
+2 _F 
+z&{@|$
+z0{0|
+S0+i
+G xMy
+.-z3{
+.-z'{"|!
+.-z,{
+.-z.{6|
+.-z3{&|
+E xKy
+z7{&|+
+>0+]
+/kz8{
+/kz-{
+/kz8{
+/kz.{6|
+2 _" 
+z1{P|. ^
+0'z9{M|
++z2{
+0'z!{
+0'z4{
+2 _g 
+*0xMy
+*z9{
+z/{t|
+z3{&|
+|00^
+20_?0xty
+z0{0|
+2z1{P|.
+15z3{
+150_T0x$ r<0=
+z/{t|
+{p|(
+z7{&|+
+f0+Z
+z0{0|
+z/{t|
+20_?y
+h0+n ^
+2z0{
+z1{P|.
+V xry
+|- ^
+z0{0|
+20_?y
+q xe ^
+4vz3{&|
+z3{&|
+4vz {
+4vz0{
+4vz7{&|+
+4v rD _b 
+n xb0=
+O kU0=
+ k'0v
+F0F1
+60 }
+6f |
+z${Y|
+z/{t|
+z7{&|+
+20_Z x' r?0=
+z1{P|.
+V0+\
+|, ^
+z<{M|
+z3{&|
+20_?0+ny
+9<z!{B|&
+9<z3{
+9<z7{&|+
+9< _
+G0*j
+z1{P|.
++z:{
+z/{t|
+z/{t|
+M0*S0
+z0{0|
+z9{M|
+z0{0|
+J0+i0*M
+z9{M|
+D0*c0
+z3{&|
+z3{&|
+B0*S
+<Dz7{&|+
+<Dz.{6|
+<Dz<{M|
+<Dz4{
+M0*l0+
+2 _y
+O0*U
+zE{*|
+z[{c|
+TuQ\uRY 
+>HzE{*|
+>~z@{
+>~zA{
+>~z[{c|
+TuQ\uRY 
+zE{*|
+?Lz@{
+?LzB{Q|
+?Lz[{c|
+TuQ\uRY 
+z[{c|
+uQ\uRY
+2 _y
+K0*Z
+zE{*|
+2 _y
+00*6
+zB{Q|
+z?{U|
+2 _! 
+zE{*|
+zC{k|
+BHzC{
+BHz?{U|
+BHz={
+zC{k|
+z?{U|
+2 _y
+E0*K
+CbzE{
+CbzC{k|
+CbzA{
+zB{Q|
+E!0,
+z[{c|
+uQ\uRY
+E!0,
+E!z[{c|
+uQ\uRY
+E!zE{*|
+ , z[{c|
+uQ\uRY 
+dz?{U|
+uQ\uRY
+F1zE{*|
+?zP{
+G<zP{
+"zP{
+I'uI
+%4u4
+3!u3
+Lu0m
+3!u3
+%4u4
+V\ 7
+ _ r
+="Menu x       
+X: State no  
+loop active  
+NTU ready    
+NTU not ready
+send data    
+receive data 
+data transfer
+No si
+nal    
+No ali
+nment 
+Receivin
+ AIS
+Resettin
+ NTU   
+X: Reset  NTU  ?
+X: Hold Tx sys ?
+Tx halted       
+Tx resync       
+Tx hold on      Tx hold on              
+on      Tx hold on              Tx hold 
+X: Chan
+e menu ?
+Flash for off   
+: off       > on
+X: Pro
+ sel
+le is enou
+I want pro
+ram  
+LOS up to
+le   
+LOS down to
+Done               
+Reset 872 to
+Reset done       
+Option Inhibit   
+Opt Inh set on   
+Opt Inh reset    
+Reformat EEPROM  
+EE Reformatted   
+ _" 
+ k! 
+F0F/
+^?0j!
+uQ\uRY
+uQ\uR-
+z?{U|
+uQ\uRY
+uQ\uRY
+ezD{
+zE{*|
+uCIuBUu@UuAU
+#uCguBSu@
+uBQu@
+uBOu@?uA
+uBNu@
+uCIuBUu@UuAU
+uCXuBTu@3uA3
+uCvuBRu@
+uBPu@
+C'x
+uQ\uRY

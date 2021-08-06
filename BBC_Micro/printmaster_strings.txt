@@ -1,0 +1,51 @@
+PRINTMASTER (Epson) 
+1.10
+(C)84 Computer Concepts M.Bateman P.Hiscock
+Bad number
+Bad string
+Out of range
+No such variable
+Too big
+Syntax:
+Can't dump file
+Not graphic mode
+Bad character
+Bad margin
+Bad line space
+Not characters
+Printer in use
+on/off*str*fsp*esc char*shade*lines per inch*left*right/+width*inches/+lines*skip*on/off**op*gap*or*/b inches*or,op*columns ..*line width*a*udc width*chr*X,Y*codes/$ASCII*width*country*height*
+DEFINE
+FDUMPc
+FONT
+GDUMPkqwkn
+GPRINT
+INITIALISEk
+ITALICa
+LINCH
+LINESPACEtp
+MARGINgh
+PAGELENij
+PCODE
+PROPORTIONa
+STYLE
+TDUMPu
+TEXTye{
+TPRINT
+kwkq
+ULOAD
+UNDERLINEa
+USAVE
+WINDOWk
+WVALSk
+HX <
+h(l4
+v&wJ
+UUUUUU
+JJJJ)
+~~~~~~
+|66666666{ ` "&
+\ ` ,"
+$fff$
+`NCMDLPB
+`l Hiscock - Computer Concepts(C) Pa

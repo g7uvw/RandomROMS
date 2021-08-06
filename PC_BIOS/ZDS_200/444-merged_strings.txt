@@ -1,0 +1,573 @@
+Copyright (C) 1987, by Zenith Data Systems CorporationCPU failure! +++
+ROM checksum failure! +++
+Keyboard not responding or not connected! +++
+Timer interrupt failure! +++
+0xx00
+8l8v
+0```0
+0p0000
+ff|ff
+lfffl
+bhxhb
+bhxh`
+x00000x
+flxlf
+```bf
+ff|``
+ff|lf
+0000x
+l88l
+x00x
+x`````x
+``|ff
+`lvff
+p000x
+`flxl
+p00000x
+ff|`
+0|004
+- MFM-200 Command Summary -
+CMD:
+Explanation
+Syntax
+----
+-----------
+------
+Help
+Boot from disk
+B [{F|W}][{0|1|2|3}][:<partition>]
+Color bar
+Display memory
+D [<range>]
+Examine memory
+E <addr>
+Fill memory
+F <range>,{<byte>|"<string>"}...
+Execute (Go)
+G [=<addr>][,<breakpoint>]...
+Hex math
+H <number1>,<number2>
+Input from port
+I <port>
+Move memory block
+M <range>,<dest>
+Output to port
+O <port>,<value>
+Examine Registers
+R [<register>]
+Search memory
+S <range>,{<byte>|"<string>"}...
+Trace program
+T [<count>]
+Unassemble program
+U [<range>]
+Set Video/Scroll
+V [M<mode>][S<scroll>][100][200]
+Where <range> is:
+<addr>{,<addr>|L<length>}
+TEST:
+Extended diagnostics
+TEST
+SETUP:
+Define hardware Setup
+SETUP
+ Copyright (C) 1987, by Zenith Data Systems
+P r r Y"Y"
+$Y"r r 
+$r r r r r 
+ u].
+PSQV
+^Y[X
+PSQV
+^Y[X
+PSQV
+^Y[X
+PQR.
+Xu&.
+PSQV3
+^ZYX
+0<9v
+udRQ
+@]_^
+ ^ZY
+PSQV
+.:'t
+^Y[X
+5.:$t
+SQRV
+Nt(P
+^ZY[
+PSQRV
+^ZY[X
+ 0@P
+hd`D
+uuuu
+%uuae
+H^[X
+SQRV
+URZ&
+RZ&3
+^ZY[
+B]_^
+PSQRW
+_ZY[X
+:.;B;e;
+SQRV
+^ZY[
+SQRV
+^ZY[
+$`<`
+SQRVWU
+]_^ZY[
+$0<0u
+PUM^N]X
+RkHsI}F
+P(C(C(C
+E}F}F
+D}F}F
+PSRV
+^Z[X
+PSRW
+.#>>
+< rVR
+YZOC
+_Z[X^
+.:6=
+PSQRVWU
+.:6=
+]_^ZY[X
+PSQRV
+.:6=
+^ZY[X
+SQWU
+.#>>
+]_Y[^ZX
+t<SQVWU
+]_^Y[ZX
+PSQWP
+_Y[X
+QRVW
+_^ZY
+SQRVW.
+u'.:6=
+_^ZY[X
+PSQR
+ZY[X
+PSQRVU
+]^ZY[X
+.;61
+.;6/
+PQRVU
+Y_^.
+]^ZYX
+PSQRVWU
+]_^ZY[X
+MKNsM
+PSQRV
+^ZY[X
+PSQRW
+_ZY[X
+PSQRV<
+^ZY[X
+PSQVW
+_^Y[X
+PQR.
+PSQ.
+PSRV
+^Z[X
+PSR.
+PSQR
+ZY[X
+SQU.
+PSQRVWU
+.;61
+Y_Mt
+]_^ZY[X
+PSV.
+0,(-)**
+WVRUQS
+CW{W*X
+X[Y]Z^_
+SPQU&
+SPQU&
+RSQVWUP
+]_^Y[Z
+[ [2[*
+PQVW
+_^YX
+PSQR
+.:6=
+ZY[X
+PSQRV.
+^ZY[X
+g< u
+PSQRW
+_ZY[X
+PSQVW
+_^Y[X
+PSQR.
+ZY[X
+PSQR
+ZY[X
+<EuG.
+<Tu;.
+<Uu/.
+<Pu#.
+PSQW
+_Y[X
+PSRV
+^Z[X
+<Eu;.
+<Su/.
+<Tu#.
+<Mu!
+Sum: 
+  Diff: 
+^ Invalid Command!
+`B@]C
+^F:_Gn_H
+aM2aO}aR
+cU_dV
+0123456789ABCDEF
+PSQRV
+^ZY[X
+t)=@
+ t%.
+jj'jhj
+l6lvlNl
+PSQRVU
+$0<0u
+]^ZY[X
+PSQRV
+^ZY[XRV
+PSQRVW
+_^ZY[X
+PSQRVW
+_^ZY[X
+PRVV
+PRVSS
+[^ZX
+PSQRV
+^ZY[X
+PSQRVWU
+]_^ZY[X
+rTYPE  <ESC>  TO EXIT
+TEST COUNT = 
+NO EXPANSION MEMORY INSTALLED
+TYPE <ESC>  TO ABORT
+TESTING MEMORY BANK AT 
+t(tEt[tDISK READ TEST
+KEYBOARD TEST
+  CHARACTER CODE = 
+SYSTEM AND VIDEO MEMORY TEST
+EXPANSION MEMORY TEST
+POWER-UP TEST
+DEVICE ERROR
+Xr1.
+PQRW
+_ZYX
+PQRVW
+_^ZYX
+'PQP
+0<9v
+PSQR
+ZY[X
+SQVW
+_^Y[
+_^[s
+y'yFy
+SQRVWU
+zPPP
+]_^ZY[X
+PSQRVWU
+]_^ZY[X
+02/12/87 (C)ZDS CORP2919
+PRVP
+.:$t
+.:$t
+PSQRVW
+u(<Lu$
+_^ZY[Xu
+E<Tu
+<Ur5<
+<RtI<FtE
+<1t<!t
+W<5t
+S<Eu)
+<Fu .
+PSQRW
+tI.:
+_ZY[X
+PSQW
+_Y[X
+PSQVW
+_^Y[X
+X<Uu
++++ ERROR: Z-319 Card not present! +++
+PSQRVW
+<pt0
+<pt0
+<ptS
+<ptF
+_^ZY[X]
+PSQRVW
+<pt#
+<pt$
+_^ZY[X]
+PSQRVW
+_^ZY[X]
+PSQRVW
+_^ZY[X]
+PSQVW
+_^Y[X
+Y[X]
+oPX9"
+qPY9
+p0` P
+PSQRV
+^ZY[X
+PSQR
+ZY[X
+PSQR
+ZY[X
+Yimrxy
+< r^<
+ 512K 
+ 640K 
+       K 
+ Enabled 
+ Disabled 
+ 360K 
+ 1.2M 
+ None 
+         Floppy Drive 0 
+      Hard Disk Drive 0 
+  Floppy then Hard Disk 
+  Enter MFM-200 Monitor 
+ Color Card: 40x25 
+ Color Card: 80x25 
+ Mono. Card: 80x25 
+ Enhanced Graphics 
+ 50 Hz 
+ 60 Hz 
+ -Not Present- 
+ Drive Type    
+    
+ Off
+  Media Type: Fixed  
+Media Type: Cartridge
+   Media Type: N/A   
+1)1010110101
+                                                                              
+                                       
+                                      
+                                       
+                                       
+                                       
+                                 
+                                       
+                                                     
+Z-200 Hardware Setup/Configuration Program
+ Time:
+ Date:
+ DST:
+ Base Memory Size:
+bytes
+ Expansion Memory:
+ Floppy Drive 0:
+ Floppy Drive 1:
+ Boot Drive:
+ Video Display:
+ Video Refresh Rate:
+ Hard Disk Drive 0:
+Cylinders:
+Ship Zone:
+Precomp:
+Heads:
+Sectors:
+Capacity:
+ Hard Disk Drive 1:
+ Enter Current Time As HH:MM:SS In 24 Hour Format 
+ Enter Current Date As MM/DD/YYYY 
+ Automatic Clock Advance/Setback For Daylight Saving Time 
+ Enter Base Memory Size (512K or 640K) 
+ Enter Amount Of Expansion Memory (Greater than 640K) 
+ Enter Floppy Drive Type (Standard 360K, High Density 1.2M, Not Present) 
+ Enter Drive To Boot From 
+ Enter Default Video Display Type Desired 
+ Enter Video Refresh Rate 
+ Enter Hard Disk (Fixed) Disk Drive Type 
+ INVALID TIME: Hr=00-23, Min=00-59, Sec=00-59. Esc to cont. 
+ INVALID DATE: Mon=01-12, Day=01-Max/Mon, Yr=1980-2099. Esc to cont. 
+ Cannot Exit While Editing Date or Time Field. Esc to cont. 
+ Use Space/Backspace to select values, Arrows to move, Esc when done 
+ Are You Done Making Changes <Y/N>? 
+ Press Return to save changes or Esc to ignore changes 
+.:G|9.
+G8F
+PSQW
+_Y[X
+PSQR
+=r$0
+ZY[X
+Yw.
+PSQR
+ZY[X]
+PSQRVW
+$RP.
+_^ZY[X
+QPRS
+PSRW
+_Z[X
+PSQR
+iZY[X
+Li^ZY
+SQRV
+^ZY[
+PSQRV
+^ZY[X]
+LSQV
+SQRV
+.:6f
+^ZY[
+PSQR
+ZY[X
+PSQR
+ZY[X
+\fY[X
+0123456789ABCDEF~JSTUVWPQR
+@LABCDH|~E
+NMABCDH|mnMpqrstuvwxy-.
+?[Keyboard lock active: the keyboard is disabled]
+System Control Processor failure! +++
+Please replace the back-up battery! +++
+Bad configuration information found in CMOS! +++
+Base memory size error!  SETUP: 
+Expansion memory size error!  SETUP: 
+K  ACTUAL: 
+K +++
+--- Errors found!  Please press <Esc> to continue ---
++++ DISK ERROR:  
+! +++
+Drive not ready
+Cannot reset drive
+Invalid data read
+Data corrected
+Seek failure
+Bad disk controller
+Sector not found
+Invalid address mark
+Must run SETUP to boot from Winchester
+Disk not bootable
+CRC error
+DMA overrun
+CHOOSE ONE OF THE FOLLOWING:
+1. DISK READ TEST
+2. KEYBOARD TEST
+3. BASE MEMORY TEST
+4. EXPANSION MEMORY TEST
+5. POWER-UP TEST
+6. EXIT
+ENTER YOUR CHOICE: 
+L--- Fatal Error: Cannot Continue! ---
+oqPY
+AXBXCXDXSIDIBPSPCSDSSSESIPFLIPCNYC
+OPEP
+ANCA
+ZNRZLPGN
+IDIEPUNDVNVO
+MFM-200 Monitor, Version 1.9A
+Memory Size: 
+Enter "?" for help.
+K + 
+1234567890-=
+qwertyuiop[]
+asdfghjkl;'`
+\zxcvbnm,./
+!@#$%^&*()_+
+QWERTYUIOP{}
+ASDFGHJKL:"~
+|ZXCVBNM<>?
+789-456+1230.
+    - Press any key to continue -
+OWVUTSRQPZ[\]
+IH^dC
+$#"! )*
+      
+    `BDFG
+PCMOS Memory Failure! +++
+'j will be run in Z-200 mode - continue (Y/N)? 
+The tests
+SETUP
+CALL
+CMPS
+CMPS
+INT    03
+LODS
+LODS
+LOOP
+LOOPN
+MOVS
+MOVS
+PUSH
+REPN
+SCAS
+SCAS
+STOS
+STOS
+XLAT   BYTE PTR [BX
+BYTE PTR 
+WORD PTR 
+DWORD PTR 
+? PTR 
+BYTE PTR 
+[BX+SI
+[BX+DI
+[BP+SI
+[BP+DI
+&.6>
+--- Errors found!  Please unlock keyboard, then press <Esc> to continue ---
++++ ERROR:  
+RAM failure!  Address: 
+, Bit: 
+, Chip: U
+ +++
+Parity hardware failure!  Address: 
+Incorrect video configuration - Please run SETUP! +++
++++ Divide by zero! +++
++++ Overflow! +++
++++ Wild interrupt! +++
++++ Wild hardware interrupt! +++
++++ ERROR:  Memory parity failure! +++
++++ Non-maskable interrupt! +++
+<fBBf<
+x<fff<
+?3?00p
+fffff
+>c8ll8
+0xx00
+8l8v
+0```0
+0p0000
+ff|ff
+lfffl
+bhxhb
+bhxh`
+x00000x
+flxlf
+```bf
+ff|``
+ff|lf
+0000x
+l88l
+x00x
+x`````x
+``|ff
+`lvff
+p000x
+`flxl
+p00000x
+ff|`
+0|004
+!z209/U228
+418/U401
